@@ -1,0 +1,483 @@
+
+.rectangle {
+  background: #5989b1;
+  width: 1200px;
+  height: 3000px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.curveborder1 {
+  border-radius: 400px 0px 0px 400px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 1200px;
+  height: 800px;
+  position: absolute;
+  left: 13px;
+  top: 107px;
+  filter: blur(6.5px);
+}
+.rectangle1 {
+  background: rgba(0, 0, 0, 0.5);
+  width: 1007px;
+  height: 230px;
+  position: absolute;
+  left: 97px;
+  top: 381px;
+}
+.rectangle2 {
+  background: #c87146;
+  border-radius: 62px;
+  width: 143px;
+  height: 60px;
+  position: absolute;
+  left: 138px;
+  top: 528px;
+}
+.rectangle3 {
+  background: #c87146;
+  border-radius: 62px;
+  width: 91px;
+  height: 33px;
+  position: absolute;
+  left: 781px;
+  top: 36px;
+}
+.rectangle4 {
+  background: #c87146;
+  border-radius: 62px;
+  width: 80px;
+  height: 33px;
+  position: absolute;
+  left: 882px;
+  top: 37px;
+}
+.rectangle5 {
+  background: #c87146;
+  border-radius: 62px;
+  width: 91px;
+  height: 33px;
+  position: absolute;
+  left: 972px;
+  top: 37px;
+}
+.rectangle6 {
+  background: #c87146;
+  border-radius: 62px;
+  width: 101px;
+  height: 33px;
+  position: absolute;
+  left: 1073px;
+  top: 37px;
+}
+.rectangle7 {
+  position: absolute;
+  left: -11px;
+  top: -28px;
+  overflow: visible;
+}
+.meskie-s-ethiopia-restaurant {
+  color: #ffffff;
+  text-align: left;
+  font: 400 52px "Lily Script One", sans-serif;
+  position: absolute;
+  left: 8px;
+  top: -3px;
+  width: 800px;
+}
+.authentic-ethiopian-cuisine {
+  color: #ffffff;
+  text-align: left;
+  font: 400 30px "Poppins", sans-serif;
+  position: absolute;
+  left: 8px;
+  top: 54px;
+  width: 500px;
+}
+.home {
+  color: #ffffff;
+  text-align: left;
+  font: 400 20px "Poppins", sans-serif;
+  position: absolute;
+  left: 792px;
+  top: 36px;
+  width: 80px;
+}
+.menu {
+  color: #ffffff;
+  text-align: left;
+  font: 400 20px "Poppins", sans-serif;
+  position: absolute;
+  left: 900px;
+  top: 35px;
+  width: 80px;
+}
+.about {
+  color: #ffffff;
+  text-align: left;
+  font: 400 20px "Poppins", sans-serif;
+  position: absolute;
+  left: 987px;
+  top: 37px;
+  width: 80px;
+}
+.contact {
+  color: #ffffff;
+  text-align: left;
+  font: 400 20px "Poppins", sans-serif;
+  position: absolute;
+  left: 1080px;
+  top: 36px;
+  width: 100px;
+}
+.welcome-to-meskie-s-ethiopia-restaurant {
+  color: #ffffff;
+  text-align: left;
+  font: 400 52px "Lily Script One", sans-serif;
+  position: absolute;
+  left: 127px;
+  top: 412px;
+  width: 1200px;
+}
+.discover-the-flavors-of-ethiopia {
+  color: #ffffff;
+  text-align: left;
+  font: 400 30px "Poppins", sans-serif;
+  position: absolute;
+  left: 127px;
+  top: 469px;
+  width: 600px;
+}
+.viewmenu {
+  color: #ffffff;
+  text-align: left;
+  font: 400 23px "Poppins", sans-serif;
+  position: absolute;
+  left: 147px;
+  top: 541px;
+  width: 150px;
+}
+.rectangle8 {
+  position: absolute;
+  left: -11px;
+  top: -28px;
+  overflow: visible;
+}
+.frame-1,
+.frame-1 * {
+  box-sizing: border-box;
+}
+.frame-1 {
+  width: 1200px;
+  height: 1663px;
+  position: relative;
+  overflow: hidden;
+}
+.rectangle-1 {
+    background: #5989b1;
+    width: 1200px;
+    height: 1004px;
+    position: absolute;
+    bottom: -1004px;
+    top: -1004px;
+  }
+  .curveborder2 {
+    background: #ebe9e9;
+    border-radius: 400px 0px 0px 400px;
+    width: 1176px;
+    height: 800px;
+    position: absolute;
+    left: 1176px;
+    top: 2500px;
+    transform-origin: 0 0;
+    transform: rotate(-180deg) scale(1, 1);
+  }
+  .oval1 {
+    background: #c87146;
+    border-radius: 62px;
+    width: 384px;
+    height: 79px;
+    position: absolute;
+    left: 103px;
+    top: 1978px;
+  }
+  ._510-843-1992 {
+    color: #ffffff;
+    text-align: left;
+    font: 400 40px "Sedan", sans-serif;
+    position: absolute;
+    left: 161px;
+    top: 1984px;
+    width: 340px;
+    height: 44px;
+  }
+  .oval2 {
+    background: #c87146;
+    border-radius: 52px;
+    width: 380px;
+    height: 104px;
+    position: absolute;
+    left: 107px;
+    top: 2293px;
+  }
+  ._11-30-am-9-30-pm {
+    color: #ffffff;
+    text-align: left;
+    font: 400 30px "Sedan", sans-serif;
+    position: absolute;
+    left: 176px;
+    top: 2341px;
+    width: 363px;
+    height: 46px;
+  }
+  .openinghours {
+    color: #ffffff;
+    text-align: left;
+    font: 400 40px "Sedan", sans-serif;
+    position: absolute;
+    left: 161px;
+    top: 2302px;
+    width: 363px;
+    height: 46px;
+  }
+  .oval3 {
+    background: #c87146;
+    border-radius: 62px;
+    width: 384px;
+    height: 79px;
+    position: absolute;
+    left: 103px;
+    top: 2142px;
+  }
+  .orderonline {
+    color: #ffffff;
+    text-align: left;
+    font: 400 40px "Sedan", sans-serif;
+    position: absolute;
+    left: 176px;
+    top: 2152px;
+    width: 275px;
+    height: 46px;
+  }
+  .logo {
+    border-radius: 250px;
+    width: 500px;
+    height: 519.61px;
+    position: absolute;
+    left: 582px;
+    top: 1928px;
+  }
+  .menubox {
+    background: #ebe9e9;
+    border-radius: 119px;
+    width: 1068px;
+    height: 551px;
+    position: absolute;
+    left: 66px;
+    top: 1127px;
+  }
+  .menulogo {
+    background: #ebe9e9;
+    border-radius: 62px;
+    width: 265px;
+    height: 105px;
+    position: absolute;
+    left: 473px;
+    top: 1000px;
+  }
+  .ourmenu {
+    color: #0f9cc9;
+    text-align: left;
+    font: 400 50px "Lily Script One", sans-serif;
+    position: absolute;
+    left: 501px;
+    top: 1018px;
+  }
+  .injera {
+    border-radius: 50%;
+    border-style: solid;
+    border-color: transparent;
+    border-width: 3px;
+    width: 111px;
+    height: 110px;
+    position: absolute;
+    left: 164px;
+    top: 1168px;
+  }
+  .tibs {
+    border-radius: 50%;
+    border-style: solid;
+    border-color: transparent;
+    border-width: 3px;
+    width: 111px;
+    height: 110px;
+    position: absolute;
+    left: 622px;
+    top: 1168px;
+  }
+  .dorowat {
+    border-radius: 50%;
+    border-style: solid;
+    border-color: transparent;
+    border-width: 3px;
+    width: 111px;
+    height: 110px;
+    position: absolute;
+    left: 164px;
+    top: 1348px;
+    overflow: visible;
+  }
+  .azifa {
+    border-radius: 50%;
+    border-style: solid;
+    border-color: transparent;
+    border-width: 3px;
+    width: 111px;
+    height: 110px;
+    position: absolute;
+    left: 622px;
+    top: 1348px;
+    overflow: visible;
+  }
+  .sambusas {
+    border-radius: 50%;
+    border-style: solid;
+    border-color: transparent;
+    border-width: 3px;
+    width: 111px;
+    height: 110px;
+    position: absolute;
+    left: 164px;
+    top: 1528px;
+  }
+  .chechebsa {
+    border-radius: 50%;
+    border-style: solid;
+    border-color: transparent;
+    border-width: 3px;
+    width: 111px;
+    height: 110px;
+    position: absolute;
+    left: 622px;
+    top: 1528px;
+  }
+  .injerat {
+    color: #0f9cc9;
+    text-align: left;
+    font: 400 45px "Poppins", sans-serif;
+    position: absolute;
+    left: 298px;
+    top: 1189px;
+    width: 200px;
+    height: 33px;
+  }
+  .injeraprice {
+    color: #c87146;
+    text-align: left;
+    font: 400 45px "Poppins", sans-serif;
+    position: absolute;
+    left: 302px;
+    top: 1234px;
+    width: 72px;
+    height: 28px;
+  }
+  .tibst {
+    color: #0f9cc9;
+    text-align: left;
+    font: 400 45px "Poppins", sans-serif;
+    position: absolute;
+    left: 760px;
+    top: 1189px;
+    width: 236px;
+    height: 33px;
+  }
+  .tibsprice {
+    color: #c87146;
+    text-align: left;
+    font: 400 45px "Poppins", sans-serif;
+    position: absolute;
+    left: 764px;
+    top: 1234px;
+    width: 72px;
+    height: 28px;
+  }
+  .dorowatt {
+    color: #0f9cc9;
+    text-align: left;
+    font: 400 45px "Poppins", sans-serif;
+    position: absolute;
+    left: 298px;
+    top: 1366px;
+    width: 290px;
+    height: 33px;
+  }
+  .dorowatprice {
+    color: #c87146;
+    text-align: left;
+    font: 400 45px "Poppins", sans-serif;
+    position: absolute;
+    left: 302px;
+    top: 1411px;
+    width: 72px;
+    height: 28px;
+  }
+  .azifat {
+    color: #0f9cc9;
+    text-align: left;
+    font: 400 45px "Poppins", sans-serif;
+    position: absolute;
+    left: 764px;
+    top: 1366px;
+    width: 236px;
+    height: 33px;
+  }
+  .azifaprice {
+    color: #c87146;
+    text-align: left;
+    font: 400 45px "Poppins", sans-serif;
+    position: absolute;
+    left: 768px;
+    top: 1411px;
+    width: 72px;
+    height: 28px;
+  }
+  .sambusast {
+    color: #0f9cc9;
+    text-align: left;
+    font: 400 45px "Poppins", sans-serif;
+    position: absolute;
+    left: 298px;
+    top: 1546px;
+    width: 308px;
+    height: 34px;
+  }
+  .sambusasprice {
+    color: #c87146;
+    text-align: left;
+    font: 400 45px "Poppins", sans-serif;
+    position: absolute;
+    left: 302px;
+    top: 1591px;
+    width: 72px;
+    height: 28px;
+  }
+  .chechebsat {
+    color: #0f9cc9;
+    text-align: left;
+    font: 400 45px "Poppins", sans-serif;
+    position: absolute;
+    left: 768px;
+    top: 1546px;
+    width: 301px;
+    height: 34px;
+  }
+  .chechebsaprice {
+    color: #c87146;
+    text-align: left;
+    font: 400 45px "Poppins", sans-serif;
+    position: absolute;
+    left: 772px;
+    top: 1591px;
+  }
