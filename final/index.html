@@ -1,6 +1,35 @@
 <!DOCTYPE html>
-<html>
-    <body>
-        FINAL
-    </body>
-</html>
+ <html> 
+  <head> 
+    <link rel="stylesheet" type="text/css" href="assets/css/style.css"> 
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Original+Surfer&display=swap" rel="stylesheet">
+    <title>WDD Final Surf Spots</title> 
+</head> 
+  
+
+<body class="home-page">
+  <img class="californiapic" src="assets/img/californiapic.png" />
+  <img class="surferpic" src="assets/img/surferpic.png"/>
+  <img class="wavepic" src="assets/img/wavepic.png" onclick="navigateToSands()"/>
+  <img class="wavepic2" src="assets/img/wavepic2.png" onclick="navigateToTrestles()"/>
+  <img class="wavepic3" src="assets/img/wavepic3.png" onclick="navigateToOcean()"/>
+
+  <div class="title">
+    My Favorite<br />California<br />Surf Spots
+  </div>
+  
+  <script src="links.js"></script>
+  <script>
+    function navigateToOcean() {
+      window.location.href = "ocean.html";
+    }
+    function navigateToSands() {
+      window.location.href = "sands.html";
+    }
+    function navigateToTrestles() {
+      window.location.href = "trestles.html";
+    }
+  </script>
+  </body>

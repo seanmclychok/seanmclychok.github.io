@@ -1,0 +1,204 @@
+.home-page,
+.home-page * {
+  box-sizing: border-box;
+}
+.home-page {
+  background: #ffeddc;
+  padding: 10px;
+  width: 1280px;
+  height: 832px;
+  position: relative;
+  overflow: hidden;
+}
+.californiapic {
+  width: 650px;
+  height: 800px;
+  position: absolute;
+  left: 602px;
+  top: 0px;
+}
+.surferpic {
+  width: 419px;
+  height: 400px;
+  position: absolute;
+  left: 165px;
+  top: 400px;
+}
+.wavepic {
+  width: 70px;
+  height: 42px;
+  position: absolute;
+  left: 830px;
+  top: 610px;
+}
+.wavepic2 {
+  width: 70px;
+  height: 42px;
+  position: absolute;
+  left: 970px;
+  top: 710px;
+}
+.wavepic3 {
+  width: 70px;
+  height: 42px;
+  position: absolute;
+  left: 660px;
+  top: 360px;
+}
+.title {
+  color: #000000;
+  text-align: center;
+  font-family: 'Original Surfer', sans-serif;
+  font-size: 65px;
+  position: absolute;
+  left: 70px;
+  top: 35px;
+  width: 550px;
+  height: 450px;
+}
+
+.oceanpage,
+.oceanpage * {
+box-sizing: border-box;
+}
+.oceanpage {
+background: #ffeddc;
+padding: 1%;
+width: 100%;
+height: 100vh;
+position: relative;
+overflow: hidden;
+}
+.wavepic4 {
+width: 38%;
+height: 37%;
+position: absolute;
+left: 60%;
+top: 2%;
+}
+.oceanbeach {
+color: #000000;
+text-align: left;
+font-family: 'Original Surfer', sans-serif;
+font-size: 65px;
+position: absolute;
+left: 2%;
+top: 8%;
+width: 55%;
+height: 39%;
+}
+.oceantext {
+text-align: left;
+font: 2.75vw "Inter-Regular", sans-serif;
+position: absolute;
+left: 2%;
+top: 22%;
+width: 49%;
+height: 64%;
+}
+.oceanpic {
+border-radius: 17%;
+width: 38%;
+height: 53%;
+position: absolute;
+left: 61%;
+top: 42%;
+}
+
+.sandspage,
+.sandspage * {
+  box-sizing: border-box;
+}
+.sandspage {
+  background: #ffeddc;
+  padding: 1%;
+  width: 100%;
+  height: 100vh;
+  position: relative;
+  overflow: hidden;
+}
+.wavepic5 {
+  width: 490px;
+  height: 305px;
+  position: absolute;
+  left: 775px;
+  top: 15px;
+}
+.sandstitle {
+  color: #000000;
+  text-align: left;
+  font-family: 'Original Surfer', sans-serif;
+  font-size: 65px;
+  position: absolute;
+  left: 20px;
+  top: 65px;
+  width: 1090px;
+  height: 325px;
+}
+.sandstext {
+  color: #000000;
+  text-align: left;
+  font: 400 50px "Inter-Regular", sans-serif;
+  position: absolute;
+  left: 20px;
+  top: 170px;
+  width: 630px;
+  height: 535px;
+}
+.sandspic {
+  border-radius: 205px;
+  width: 455px;
+  height: 415px;
+  position: absolute;
+  left: 795px;
+  top: 350px;
+}
+
+.trestlespage,
+.trestlespage * {
+  box-sizing: border-box;
+}
+.trestlespage {
+  background: #ffeddc;
+  padding: 1%;
+  width: 100%;
+  height: 100vh;
+  position: relative;
+  overflow: hidden;
+}
+.wavepic6 {
+  width: 490px;
+  height: 305px;
+  position: absolute;
+  left: 775px;
+  top: 15px;
+}
+.trestlestitle {
+  color: #000000;
+  text-align: left;
+  font-family: 'Original Surfer', sans-serif;
+  font-size: 65px;
+  position: absolute;
+  left: 20px;
+  top: 65px;
+  width: 710px;
+  height: 325px;
+}
+.trestlestext {
+  color: #000000;
+  text-align: left;
+  font: 400 50px "Inter-Regular", sans-serif;
+  position: absolute;
+  left: 35px;
+  top: 160px;
+  width: 630px;
+  height: 535px;
+}
+.trestlespic {
+  border-radius: 230px;
+  width: 515px;
+  height: 435px;
+  position: absolute;
+  left: 750px;
+  top: 200px;
+}
